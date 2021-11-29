@@ -43,6 +43,8 @@ The user data should be normalize in two tables and you should create the route,
 
 You need show a basic interface but not the default interface provided, you need to use a look and feel library like Bootstrap, Tailwind or other you prefer.
 
+You have to use **snake_case** notation.
+
 ### API
 
 For the API you'll need replicate the actions of the CRUD (create, read, update and delete) and the response should be in JSON. You have to use `serializer` of RoR (not gem).
