@@ -32,7 +32,7 @@ The user should have the next information:
 And personal information like:
 
 - City
-- Estate
+- State
 - Country
 - Favorite Marvel character
 - Favorite Marvel comic
