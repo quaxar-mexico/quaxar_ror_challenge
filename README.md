@@ -8,8 +8,8 @@ Read carefully the instructions, as they contain all the details regarding this 
 
 We've already started a project for you, so it's easier to work with.
 
-- Ruby version 2.6.0
-- Rails version 5.2
+- Ruby version 3.0.2
+- Rails version 6.1.4
 
 ## Your challenge
 
