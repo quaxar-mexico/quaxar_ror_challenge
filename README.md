@@ -64,7 +64,7 @@ Install RSpec and use it to write out tests for your application. Write as many 
 
 For this to work you need to install PostgreSQL database in your computer and start a server.
 
-You'll need Ruby v2.6.0 and Rails v5.2.
+You'll need Ruby v3.0.2 and Rails v6.1.4.
 
 Clone the project, and create your own project in Github, this should be public. Use any name you'd like. We recommend you using something like `{name}_ror_solution`. For evaluation you'll share your repository to **fmartinez@quaxar.com** with copy to **cmijangos@quaxar.com and eovalle@quaxar.com**
 
