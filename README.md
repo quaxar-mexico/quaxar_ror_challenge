@@ -17,7 +17,7 @@ You need create a login for the CRUD and consume the API, this means your main p
 
 ### CRUD
 
-You need consume and Marvel's API for some information of the users like favorite character and favorite comic.
+You need consume and Marvel's API [here](https://developer.marvel.com/) for some information of the users like favorite character and favorite comic.
 
 The user should have the next information:
 
